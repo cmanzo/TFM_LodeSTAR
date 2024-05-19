@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Environments/deeplay_env"
+		}
+	],
+	"settings": {}
+}
